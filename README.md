@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey! 👋
+
+![ResearchGate](https://www.researchgate.net/profile/Matthew-Flood-3)
+
 
 <!--
 **MattWillFlood/MattWillFlood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
