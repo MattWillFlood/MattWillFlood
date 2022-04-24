@@ -1,6 +1,6 @@
 ### Hey! ☺️
 
-<img align="right" src="https://github.com/MattWillFlood/MattWillFlood/blob/195f856710176bebaf2ab0bfa173566711d2a926/ME.jpg" width="450"/>
+<img align="right" src="https://github.com/MattWillFlood/MattWillFlood/blob/195f856710176bebaf2ab0bfa173566711d2a926/ME.jpg" width="350"/>
 
 My name is Matt and I'm a [biomedical engineer](https://mattwillflood.github.io/Bio/)/[researcher](https://orcid.org/0000-0002-5674-424X)/[scientist](https://researchluxembourg.lu/2021/10/15/in-conversation-with-our-young-researchers-dr-matthew-flood/).
 
