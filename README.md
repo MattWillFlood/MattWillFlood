@@ -11,7 +11,7 @@ My research primarily focuses on movement disorders and the application of  math
 
 I’m from Ireland, but have been living and working in Germany and Luxembourg since 2019.
 
-
+-------------------------------------------------------------------------------------------
 
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matthew-Flood-3)
 [![ORCiD](https://img.shields.io/badge/orcid-logo.svg?&logo=ORCiD&style=for-the-badge&logoColor=white)](https://orcid.org/0000-0002-5674-424X)
