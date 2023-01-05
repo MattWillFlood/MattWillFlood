@@ -4,7 +4,7 @@
 
 My name is Matt and I'm a [biomedical engineer](https://mattwillflood.github.io/Bio/)/[researcher](https://orcid.org/0000-0002-5674-424X)/[scientist](https://researchluxembourg.lu/2021/10/15/in-conversation-with-our-young-researchers-dr-matthew-flood/).
 
-I'm currently a postdoctoral researcher in the Human Motion, Orthopaedics, Sports Medicine and Digital Methods (HOSD) unit at the Luxembourg Institute of Health (LIH).
+I'm currently a postdoctoral researcher in the Department of Precision Health at the Luxembourg Institute of Health (LIH).
 
 
 My research primarily focuses on movement disorders and the application of  mathematical methods to better understand them. In particular, I use various physiological sensing modalities to record neuromuscular and kinematic activity, and then apply nonlinear signal processing techniques to identify the factors underlying the dysfunction.
