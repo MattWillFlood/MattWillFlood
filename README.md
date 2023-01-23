@@ -19,8 +19,7 @@ I’m from Ireland, but have been living and working in Germany and Luxembourg s
 [![ORCiD](https://img.shields.io/badge/orcid-logo.svg?&logo=ORCiD&style=for-the-badge&logoColor=white)](https://orcid.org/0000-0002-5674-424X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drmatthewflood/)
 [![My Bio](https://img.shields.io/badge/My%20Bio-white?&logo=git&color=critical&style=for-the-badge&logoColor=white)](https://mattwillflood.github.io/Bio/)
-
-
+[![Google Scholar Badge](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=fff&style=for-the-badge)](https://scholar.google.com/citations?user=MmwXC-0AAAAJ&hl=en&oi=ao)
 
 
 <!--
