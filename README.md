@@ -11,11 +11,18 @@ My research primarily focuses on movement disorders and the application of  math
 
 I’m from Ireland, but have been living and working in Germany and Luxembourg since 2019.
 
+<!-- Find out more about me [here](https://mattwillflood.github.io/Bio/). -->
+
 -------------------------------------------------------------------------------------------
 
 [![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Matthew-Flood-3)
 [![ORCiD](https://img.shields.io/badge/orcid-logo.svg?&logo=ORCiD&style=for-the-badge&logoColor=white)](https://orcid.org/0000-0002-5674-424X)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drmatthewflood/)
+[![My Bio](https://img.shields.io/badge/My%20Bio-white?&logo=git&color=critical&style=for-the-badge&logoColor=white)](https://mattwillflood.github.io/Bio/)
+
+
+
+
 <!--
 **MattWillFlood/MattWillFlood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
