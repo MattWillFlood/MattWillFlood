@@ -6,7 +6,7 @@ My name is Matt and I'm a [biomedical engineer / researcher / scientist](https:/
 
 My research primarily focuses on movement disorders and the application of  mathematical methods to better understand them. In particular, I use various physiological sensing modalities to record neuromuscular and kinematic activity, and then apply nonlinear signal processing techniques to identify the factors underlying the dysfunction.
 
-I’m from Ireland, but have been living and working in Germany and Luxembourg since 2019.
+<!-- I’m from Ireland, but have been living and working in Germany and Luxembourg since 2019. -->
 
 <!-- Find out more about me [here](https://mattwillflood.github.io/Bio/). -->
 
